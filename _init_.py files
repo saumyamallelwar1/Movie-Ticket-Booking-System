@@ -1,0 +1,5 @@
+# Create empty _init_.py files in:
+# - movie_booking/_init_.py
+# - booking/_init_.py
+
+# These files are empty but required to make Python treat the directories as packages
