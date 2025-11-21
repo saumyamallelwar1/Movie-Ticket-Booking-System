@@ -302,7 +302,7 @@ This project is created as an assignment for Backend Developer Intern position.
 
 ## 👤 Author
 
-Sahil Burele - Backend Developer Intern Candidate
+ Saumya Mallelwar - Backend Developer Intern Candidate
 
 ## 🤝 Contributing
 
@@ -316,5 +316,5 @@ This is an assignment project. For any questions, please contact the development
 - Configure proper database (PostgreSQL recommended)
 - Set up proper static file serving
 - Configure CORS if needed
-
 - Use environment variables for sensitive data
+
