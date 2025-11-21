@@ -248,6 +248,17 @@ Show.objects.create(
     total_seats=50
 )
 
+##Screenshot
+![WhatsApp Image 2025-11-21 at 11 08 26_dc8dc317](https://github.com/user-attachments/assets/431ac3cd-ce94-49d3-b374-75d1dc775e40)
+![WhatsApp Image 2025-11-21 at 11 08 26_c0891010](https://github.com/user-attachments/assets/ea8111c1-1403-4b1b-8555-0037d00f45b3)
+![WhatsApp Image 2025-11-21 at 11 08 27_89dd6b9f](https://github.com/user-attachments/assets/db52df5c-2550-4bdb-8dfe-f0fcd5de8414)
+![WhatsApp Image 2025-11-21 at 11 08 27_16daeef1](https://github.com/user-attachments/assets/a84ae185-7153-4f93-b607-947bfac2ef3f)
+![WhatsApp Image 2025-11-21 at 11 08 28_55c435a8](https://github.com/user-attachments/assets/7346303d-d893-49c5-a6c8-aa2693ed6c84)
+![WhatsApp Image 2025-11-21 at 11 08 28_ff2ae27c](https://github.com/user-attachments/assets/671e5742-fe3e-4fe6-b2da-4cc022cd85f4)
+![WhatsApp Image 2025-11-21 at 11 08 29_5aa452b7](https://github.com/user-attachments/assets/67bf5bb9-4a9a-44bb-81a7-fd7f39d8f8c7)
+![WhatsApp Image 2025-11-21 at 11 08 29_2896882e](https://github.com/user-attachments/assets/511412de-8176-4a9c-9b7a-b68e2fb846ff)
+![WhatsApp Image 2025-11-21 at 11 08 30_c8e07d98](https://github.com/user-attachments/assets/574ea416-a466-4fbd-9e6f-19aa221dc3d0)
+![WhatsApp Image 2025-11-21 at 11 08 30_961d4ea0](https://github.com/user-attachments/assets/77485df6-62b9-425d-9ba7-dd13e1d19616)
 
 ## ✅ Business Rules Implemented
 
@@ -305,4 +316,5 @@ This is an assignment project. For any questions, please contact the development
 - Configure proper database (PostgreSQL recommended)
 - Set up proper static file serving
 - Configure CORS if needed
+
 - Use environment variables for sensitive data
